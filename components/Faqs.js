@@ -47,7 +47,7 @@ import faq from "../data/faq.json";
     >
       <Container className="text-indigo">
         <Grid>
-          <div className="col-span-4 md:col-span-6 mt-8 ">
+          <div className="col-span-4 md:col-span-6 mt-6 ">
             <Appear>
               <h2 className="font-primaryNormal  md:mt-10 md:leading-150  text-bigger3 md:text-huge4  ">
                 {title}
