@@ -21,7 +21,7 @@ const Footer= () => {
             {/* <Image src="/images/logo.svg" width={128} height={37} /> */}
 
               <Image
-                src="/images/footer.jpeg" width={2400} height={700}
+                src="/images/footer.jpeg" width={3000} height={700}
                 classes="w-full h-full object-cover relative"
              />
               <div className="absolute inset-y-1/5  inset-x-1/5  text-small md:inset-x-1/3 md:inset-y-1/4 font-primaryBold md:text-bigger3  mx-auto ">
