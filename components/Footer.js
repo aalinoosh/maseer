@@ -21,7 +21,7 @@ const Footer= () => {
             {/* <Image src="/images/logo.svg" width={128} height={37} /> */}
 
               <Image
-                src="/images/footer.jpeg" width={1800} height={700}
+                src="/images/footer.jpeg" width={2700} height={700}
                 classes="w-full h-full object-cover relative"
              />
               <div className="absolute inset-y-1/5  inset-x-1/5  text-small md:inset-x-1/3 md:inset-y-1/4 font-primaryBold md:text-bigger3  mx-auto ">
@@ -29,8 +29,8 @@ const Footer= () => {
                 <Image src="/images/logo.svg" width={200} height={80} />
                 </div>
                 <div>
-                <nav className="footer-social-links text-center">
-                <a href="#"  className={`social`} > <span className="mt-0.5">{skypelogo}</span></a>
+                <nav className="footer-social-links text-center hidden md:block">
+                <a href="#"  className={`social ` } > <span className="mt-0.5">{skypelogo}</span></a>
                 <a href="#"  className={`social`} > <span className="mt-0.5">{skypelogo}</span></a>
                 <a href="#"  className={`social`} > <span className="mt-0.5">{skypelogo}</span></a>
                 <a href="#"  className={`social`} > <span className="mt-0.5">{skypelogo}</span></a>
