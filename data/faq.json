@@ -1,0 +1,120 @@
+{
+  "props": {
+    "title": "frequent",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi, at facilisis.",
+    "backgroundImage": {
+      "name": "QTfScEPT4X71q9blQ1qn7II9tvCK61qzFkayRgSR.png",
+      "type": "image/png",
+      "size": {
+        "width": 1407,
+        "height": 1443
+      },
+      "originalName": "2021-08-03_183824.png",
+      "resizable": true,
+      "quality": 75,
+      "sizes": [100, 700, 1400, 2000]
+    },
+    "items": [
+      {
+        "name": "FAQSCategory",
+        "key": "pm0My7iJthgzJ8xtKGowq1xoEWp1tg",
+        "props": {
+          "title": "Sobre el equipo MASEER",
+          "items": [
+            {
+              "name": "FAQSCategoryItem",
+              "key": "UuGrn4JFiAVojLpKHPwsV93XLpzqXV",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. ",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. Cras vehicula a augue quis mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla in porta felis. Nam vel tristique arcu. Aenean accumsan placerat tristique."
+              }
+            },
+            {
+              "name": "FAQSCategoryItem",
+              "key": "YBst3hvUK6LVg0I4D8udcfkIBb96z4",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. ",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. Cras vehicula a augue quis mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla in porta felis. Nam vel tristique arcu. Aenean accumsan placerat tristique."
+              }
+            },
+            {
+              "name": "FAQSCategoryItem",
+              "key": "TsZlQqcS5GbnZtVhK73qIrBQp42fNy",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. ",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. Cras vehicula a augue quis mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla in porta felis. Nam vel tristique arcu. Aenean accumsan placerat tristique."
+              }
+            },
+            {
+              "name": "FAQSCategoryItem",
+              "key": "mx26B65EMfhFT3FE2AMEyCSZF4xiTH",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. ",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus id sem in sodales. Maecenas maximus nec turpis id lobortis. Quisque vel dui eu elit molestie lobortis ac nec magna. Quisque ut dictum massa. Cras vehicula a augue quis mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla in porta felis. Nam vel tristique arcu. Aenean accumsan placerat tristique."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "FAQSCategory",
+        "key": "FYIKmHEk6bPE3irgmjzfkZvSyEaeL5",
+        "props": {
+          "title": "MASEER for Display",
+          "items": [
+            {
+              "name": "FAQSCategoryItem",
+              "key": "9hGrJOpSxsWlMXYg6li6OsS7yXJZxf",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. \n",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. Ut semper non dolor at fermentum. Sed et condimentum nunc, eu dictum est. Suspendisse felis mi, dapibus eu lobortis ut, tincidunt sed lorem. Suspendisse sit amet justo rhoncus, aliquet enim in, consequat libero. Cras varius porta leo, et vehicula magna volutpat sed. In semper ex sed porta tempor. Curabitur aliquet vulputate condimentum. Etiam ullamcorper ac ligula sed lobortis. Mauris tristique congue turpis, vel euismod arcu.\n"
+              }
+            },
+            {
+              "name": "FAQSCategoryItem",
+              "key": "xqNum3wClPTMlf5kYSzdLLMSUwnIUz",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. \n",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. Ut semper non dolor at fermentum. Sed et condimentum nunc, eu dictum est. Suspendisse felis mi, dapibus eu lobortis ut, tincidunt sed lorem. Suspendisse sit amet justo rhoncus, aliquet enim in, consequat libero. Cras varius porta leo, et vehicula magna volutpat sed. In semper ex sed porta tempor. Curabitur aliquet vulputate condimentum. Etiam ullamcorper ac ligula sed lobortis. Mauris tristique congue turpis, vel euismod arcu.\n"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "FAQSCategory",
+        "key": "xTEKGvLgN9hEbpIrsiDiF7gpRUICj6",
+        "props": {
+          "title": "Sobre MASEER for Personal Meeting",
+          "items": [
+            {
+              "name": "FAQSCategoryItem",
+              "key": "5dl7B4OAgNvBhdIocgGZruh73OpwP7",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. ",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. Ut semper non dolor at fermentum. Sed et condimentum nunc, eu dictum est. Suspendisse felis mi, dapibus eu lobortis ut, tincidunt sed lorem. Suspendisse sit amet justo rhoncus, aliquet enim in, consequat libero. Cras varius porta leo, et vehicula magna volutpat sed. In semper ex sed porta tempor. Curabitur aliquet vulputate condimentum. Etiam ullamcorper ac ligula sed lobortis. Mauris tristique congue turpis, vel euismod arcu.\n"
+              }
+            },
+            {
+              "name": "FAQSCategoryItem",
+              "key": "4Gw4qvsRT3Awx1e8Uvkxm377sxfBVZ",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. ",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. Ut semper non dolor at fermentum. Sed et condimentum nunc, eu dictum est. Suspendisse felis mi, dapibus eu lobortis ut, tincidunt sed lorem. Suspendisse sit amet justo rhoncus, aliquet enim in, consequat libero. Cras varius porta leo, et vehicula magna volutpat sed. In semper ex sed porta tempor. Curabitur aliquet vulputate condimentum. Etiam ullamcorper ac ligula sed lobortis. Mauris tristique congue turpis, vel euismod arcu.\n"
+              }
+            },
+            {
+              "name": "FAQSCategoryItem",
+              "key": "0vJd0Jtlc6CvxyMHlFJKfzcHpQU7vW",
+              "props": {
+                "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. ",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus enim ut nunc consequat, in efficitur lorem pellentesque. Integer tincidunt tristique fringilla. Duis sed arcu viverra, accumsan arcu ac, pretium sem. Suspendisse dignissim leo augue, in viverra ligula laoreet porta. Pellentesque scelerisque lectus eget tellus rutrum hendrerit. Mauris et dolor ut nisi ornare ullamcorper non eu enim. Ut semper non dolor at fermentum. Sed et condimentum nunc, eu dictum est. Suspendisse felis mi, dapibus eu lobortis ut, tincidunt sed lorem. Suspendisse sit amet justo rhoncus, aliquet enim in, consequat libero. Cras varius porta leo, et vehicula magna volutpat sed. In semper ex sed porta tempor. Curabitur aliquet vulputate condimentum. Etiam ullamcorper ac ligula sed lobortis. Mauris tristique congue turpis, vel euismod arcu.\n"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "title2": "questions"
+  }
+}

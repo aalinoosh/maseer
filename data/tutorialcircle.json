@@ -1,0 +1,21 @@
+{
+  "props": {
+    "title": "Introducing Maseer Shipping Company",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi,Etiam tempor scelerisque mi, at facilisis leo auctor ac. Nulla congue sem nec massa condimentum interdum",
+    "ctaLink": "/es/nombre-del-tutorial",
+    "image": "/images/post.svg",
+    "backgroundImage": {
+      "name": "7tZ7tQrXBRWkPxDXZPjwQWvHJQ9zt5VwoZw8QzhI.png",
+      "type": "image/png",
+      "size": {
+        "width": 927,
+        "height": 975
+      },
+      "originalName": "2021-08-03_183019.png",
+      "resizable": true,
+      "quality": 75,
+      "sizes": [100, 700, 1400, 2000]
+    },
+    "ctaLabel": "Saber más"
+  }
+}

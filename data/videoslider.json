@@ -1,0 +1,75 @@
+{
+  "props": {
+    "title": "Reuniones  con vídeo conferencia",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi.",
+    "ctaLink": "/es/nombre-del-tutorial",
+    "backgroundImage": {
+      "name": "3rspdDP1HJe0WO8z0II8YQJuukc0YwziVxW6SN36.png",
+      "type": "image/png",
+      "size": {
+        "width": 1000,
+        "height": 1104
+      },
+      "originalName": "2021-08-03_182219.png",
+      "resizable": true,
+      "quality": 75,
+      "sizes": [100, 700, 1400, 2000]
+    },
+    "items": [
+      {
+        "name": "TutorialVideoSliderItem",
+        "key": "qzKrEB5UxL3hNJdFBsVFoH3RngPuSw",
+        "props": {
+          "title": " Reservar una reunión en una sala Lorem ipsum dolor sit amet",
+          "image": "/images/port2.jpeg",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "ctaLabel": "Reed More"
+        }
+      },
+      {
+        "name": "TutorialVideoSliderItem",
+        "key": "UmZbEZNHJo0lQuVYc95AxSpeEwh7CM",
+        "props": {
+          "title": "Quiero reservar una sala Maseer con Lorem ipsum",
+          "image": "/images/port2.jpeg",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "ctaLabel": "Reed More"
+        }
+      },
+      {
+        "name": "TutorialVideoSliderItem",
+        "key": "lsDgKKaDbvyZWoGgxp5T4In2k7ZnAN",
+        "props": {
+          "title": "Quiero utilizar la sala Maseer Lorem ipsum dolor sit amet",
+          "image": "/images/port2.jpeg",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "ctaLabel": "Reed More"
+        }
+      },
+      {
+        "name": "Maseer TutorialVideoSliderItem",
+        "key": "4tnbt9AuRKToY18mIt9hRt8XnixQZ7",
+        "props": {
+          "title": "Sobre de tu pack de Maseer Lorem ipsum dolor sit amet",
+          "image": "/images/port.jpeg",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "ctaLabel": "Reed More"
+        }
+      }
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=VSl6PYuBtiA",
+    "imagePoster": {
+      "name": "ODs3LDCW7hypGhDUmLiRgtBmLDIZcNZOi3WA1Xmz.jpg",
+      "type": "image/jpeg",
+      "size": {
+        "width": 2738,
+        "height": 1324
+      },
+      "originalName": "2021-08-25_111324.jpg",
+      "resizable": true,
+      "quality": 75,
+      "sizes": [100, 700, 1400, 2000]
+    },
+    "ctaLabel": "Reed More"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "props": {
+    "title": "Our shipping Servises ",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi, at facilisis leo auctor ac. Nulla congue sem nec massa condimentum interdum.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi, at facilisis leo auctor ac. Nulla congue sem nec massa condimentum interdum.",
+    "ctaLabel": "Conoce la sala RICC",
+    "ctaLink": "/es/nombre-del-tutorial",
+    "backgroundImage": {
+      "name": "Dcb0kKczInjq6tmXviSvZKIFj5pjevbbb42rnDzz.png",
+      "type": "image/png",
+      "size": {
+        "width": 1756,
+        "height": 2366
+      },
+      "originalName": "2021-08-31_162055.png",
+      "resizable": true,
+      "quality": 75,
+      "sizes": [100, 700, 1400, 2000]
+    },
+    "subtitle": "Certification of the quantity and quality of the cargo.",
+    "items": [
+      {
+        "name": "TutorialPreview",
+        "key": "8KSeTM7bgifjYgfeXiEjKJI9PjGI5I",
+        "props": {
+          "title": "Operation of boarding ships",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi.",
+          "ctaLabel": "Saber más",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "image": "/images/port.jpeg"
+        }
+      },
+      {
+        "name": "TutorialPreview",
+        "key": "WvZVyG5zZgfy7abBVJ3HOXyl8MU2Nf",
+        "props": {
+          "title": "Cargo and Sea freight",
+          "text": " Large storage capacity,Stores: Classic dish or connected by conveyor belts directly on the platform,Storage and management of medians .",
+          "image": "/images/storage.jpeg",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "ctaLabel": "Saber más"
+        }
+      },
+      {
+        "name": "TutorialPreview",
+        "key": "GVUsg9xR4q8eYgGQDB2FFwvzbHDZ0e",
+        "props": {
+          "title": "Our inspection services of ships and containers include:",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi.",
+          "image": "/images/ship2.jpeg",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "ctaLabel": "Saber más"
+        }
+      },
+      {
+        "name": "TutorialPreview",
+        "key": "piVTkKR2UHyZ8ccWXTWTq0MLYr6RYx",
+        "props": {
+          "title": "Operation of boarding Air freight",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi.",
+          "image": "/images/fly.jpeg",
+          "ctaLink": "/es/nombre-del-tutorial",
+          "ctaLabel": "Saber más"
+        }
+      }
+    ]
+  }
+}
