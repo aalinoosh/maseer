@@ -14,9 +14,8 @@ import Grid from "./Grid";
 
 const Footer= () => {
   return (
-    <Container>
-      <Grid>
-        <div className="col-span-4 md:col-span-12 w-full my-1  ">
+   
+        <div className="col-span-4 md:col-span-12 w-full ">
           <Appear>
             <div>
             {/* <Image src="/images/logo.svg" width={128} height={37} /> */}
@@ -44,8 +43,7 @@ const Footer= () => {
             </div>
           </Appear>
         </div>
-      </Grid>
-    </Container>
+     
   );
 };
 
