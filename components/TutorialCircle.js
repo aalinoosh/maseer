@@ -52,7 +52,7 @@ const TutorialCircle = () => {
       className="bg-white pb-20"
       //  style={isMobile ? bgMob : bgDesk}
     >
-      <Container className="md:py-10 ">
+      <Container className="md:py-8 ">
         <Grid>
           <div
             className="col-span-4  mt-10 md:col-span-6"

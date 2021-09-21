@@ -1,7 +1,7 @@
 {
   "props": {
     "title": "Reuniones  con vídeo conferencia",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi.",
+    "text": "Landing marine vessels, conveying them to the airport and then perform starting operation  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor scelerisque mi.",
     "ctaLink": "/es/nombre-del-tutorial",
     "backgroundImage": {
       "name": "3rspdDP1HJe0WO8z0II8YQJuukc0YwziVxW6SN36.png",
@@ -30,7 +30,7 @@
         "name": "TutorialVideoSliderItem",
         "key": "UmZbEZNHJo0lQuVYc95AxSpeEwh7CM",
         "props": {
-          "title": "Quiero reservar una sala Maseer con Lorem ipsum",
+          "title": "Quiero reservar una sala Maseer con Lorem ipsum dolor sit amet",
           "image": "/images/port2.jpeg",
           "ctaLink": "/es/nombre-del-tutorial",
           "ctaLabel": "Reed More"
