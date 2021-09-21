@@ -47,7 +47,7 @@ import faq from "../data/faq.json";
     >
       <Container className="text-indigo">
         <Grid>
-          <div className="col-span-4 md:col-span-6 mt-6 ">
+          <div className="col-span-4 md:col-span-6 ">
             <Appear>
               <h2 className="font-primaryNormal  md:mt-10 md:leading-150  text-bigger3 md:text-huge4  ">
                 {title}
@@ -62,7 +62,7 @@ import faq from "../data/faq.json";
             </h2>
           </div>
 
-          <div className="col-span-12 mr-10 md:mr-40 md:border-none md:mb-10 md:col-span-5 md:col-start-1">
+          <div className="col-span-12 mr-10 md:mr-40 md:border-none   md:mb-10 md:col-span-5 md:col-start-1">
             <Appear>
               <HTMLText text={subtitle} />
             </Appear>
