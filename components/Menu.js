@@ -86,7 +86,7 @@ const Menu = ({ image, items, logo, ctaLabel, ctaLink }) => {
                             key={index}
                             id={item.key}
                             className="px- pr-4 pt-4 text-sm  z-40  bg-transparent  py-2   pb-4  md:ml-2  md:mt-0  hover:text-secondary   menumark focus:text-secondary mx-6"
-                            href={item.props.ctaLink}
+                            href="#"
                           >
                             {item.props.ctaLabel}
                           </a>
@@ -99,7 +99,7 @@ const Menu = ({ image, items, logo, ctaLabel, ctaLink }) => {
                 <div className="relative pl-2">
                   <Appear>
                     <a
-                      href={ctaLink}
+                       href="#"
                       className="flex w-full text-light text-sb justify-center  px-8 py-2  bg-secondary rounded-md focus:outline-none focus:shadow-outline"
                     >
                       <span className="mr-3">{ctaLabel}</span>
@@ -127,7 +127,7 @@ const Menu = ({ image, items, logo, ctaLabel, ctaLink }) => {
               >
                 <Container className="">
                   <Grid>
-                    <div className="col-span-5 my-20 md:col-span-5 border-2 border-red-700 ">
+                    <div className="col-span-5 my-20 md:col-span-5">
                       <Image src="/images/menu.jpeg" width={528} height={300} />
                     </div>
                     <div className="col-span-4  w-full  my-20  md:col-span-9 md:col-start-8 ">
@@ -176,7 +176,7 @@ const Menu = ({ image, items, logo, ctaLabel, ctaLink }) => {
                                                 <ul className="subMenu">
                                                   <div className=" flex justify-between my-2  mt-4 border-b-1  hover:text-secondary  hover:border-b-1 hover:border-secondary  focus:outline-none">
                                                     <a
-                                                      href={item.props.ctaLink}
+                                                       href="#"
                                                     >
                                                       <Appear>
                                                         <li className="py-2">
