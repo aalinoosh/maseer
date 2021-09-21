@@ -12,11 +12,11 @@ const FAQSCategoryItem = ({
   return (
     <div className={`${className}`}>
       <Appear>
-        <div className="">
+        <div className="font-primaryNormal">
           <div className={` flex flex-row col-span-4  md:col-span-12 `}>
             <Collapsible
               close
-              className=""
+              className="font-primaryNormal"
               header={question}
               idNumber2={idNumber}
             >

@@ -49,7 +49,7 @@ import faq from "../data/faq.json";
         <Grid>
           <div className="col-span-4 md:col-span-6 ">
             <Appear>
-              <h2 className="font-primaryNormal  md:mt-10 md:leading-150  text-bigger3 md:text-huge4  ">
+              <h2 className="font-primaryNormal hidden md:block  md:mt-10 md:leading-150  text-bigger3 md:text-huge4  ">
                 {title}
                 {isMobile && <span className="ml-2">{title2}</span>}
               </h2>
@@ -118,7 +118,7 @@ import faq from "../data/faq.json";
                           <CollapsibleMobile
                             key={item.key}
                             close
-                            className="font-primaryBold text-base"
+                            className="font-primaryNormal text-base"
                             header={item.props.title}
                           >
                             <div key={item.key} id={item.key}>
