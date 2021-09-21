@@ -62,7 +62,7 @@ import faq from "../data/faq.json";
             </h2>
           </div>
 
-          <div className="col-span-12 mr-10 md:mr-40 md:border-none   md:mb-10 md:col-span-5 md:col-start-1">
+          <div className="col-span-12 mr-10 md:mr-40 md:border-none   md:mb-8 md:col-span-5 md:col-start-1">
             <Appear>
               <HTMLText text={subtitle} />
             </Appear>
